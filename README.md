@@ -1,7 +1,7 @@
 # TI-BH-basic-kit
 
-This is a basic kit that inlcudes two different kinds of TI launchpad boards and jumper wires.  <br />
-Students who take ESET 369 course in Fall of 2019 need to brng their own TI launchpad boards and jumper wires. <br />
+This is a basic kit that includes two different kinds of TI Launchpad boards and jumper wires.  <br />
+Students who take ESET 369 course in Fall of 2019 need to bring their own TI Launchpad boards and jumper wires. <br />
 
 The details were listed below. Students can choose to obtain them from several vendors such as TI, Amazon, digikey, or mouser. <br />
 
@@ -11,7 +11,7 @@ The details were listed below. Students can choose to obtain them from several v
 
 This basic kit:
 
-- ARM Cortex-M4F Based MCU TM4C123G LaunchPad Evaluation Kit (EK-TM4C123GXL) <br />
+- ARM Cortex-M4F Based MCU TM4C123G Launchpad Evaluation Kit (EK-TM4C123GXL) <br />
 http://www.ti.com/tool/EK-TM4C123GXL?DCMP=stellaris-launchpad&HQS=tm4c123g-launchpad
 
 - MSP430F5529 USB LaunchPad Evaluation Kit (MSP-EXP430F5529LP) <br />
