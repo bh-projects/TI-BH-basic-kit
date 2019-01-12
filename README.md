@@ -1,7 +1,7 @@
 # TI-BH-basic-kit
 
 This is a basic kit that includes two different kinds of TI Launchpad boards and jumper wires.  <br />
-Students who take ESET 369 course in Spring of 2019 need to bring their own TI Launchpad boards and jumper wires. <br />
+Students who take ESET 369 course in *Spring of 2019* need to bring their own TI Launchpad boards and jumper wires. <br />
 
 The detailed items were listed below. Students can choose to obtain them from several vendors such as TI, Amazon, digikey, or mouser. <br />
 
