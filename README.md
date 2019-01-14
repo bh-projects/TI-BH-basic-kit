@@ -1,21 +1,5 @@
-# TI-BH-basic-kit
+This is an old link, and this is about to be deleted soon.
 
-This is a basic kit that includes TI (Texas Instrument) Launchpad boards and jumper wires.  <br />
-Students who take ESET 369 course in *Spring of 2019* need to bring their own TI Launchpad boards and jumper wires for their labs. <br />
+Please, check out this new link below:
 
-The detailed item list can be found below. Each item is available through several suppliers such as TI, Amazon, digikey, or mouser. <br />
-
- <br />
-<center><img src="./pic.jpg" width =50%></center>
- <br />
-
-This basic kit:
-
-- ARM Cortex-M4F Based MCU TM4C123G Launchpad Evaluation Kit (EK-TM4C123GXL) <br />
-http://www.ti.com/tool/EK-TM4C123GXL?DCMP=stellaris-launchpad&HQS=tm4c123g-launchpad
-
-- MSP430F5529 USB LaunchPad Evaluation Kit (MSP-EXP430F5529LP) <br />
-http://www.ti.com/tool/MSP-EXP430F5529LP
-
-- Breadboard Jumper Wire Set (Male to Female, Male to Male, and Female to Female)  <br />
-You can find a wide range of choices using the keyword 'breadboard jumper wire'. Please, make sure to obtain all M-M, F-F, and M-F wire combinations.
+https://rftestgroup.tamu.edu/ti-bh-basic-kit
