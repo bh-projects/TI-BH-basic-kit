@@ -18,4 +18,4 @@ http://www.ti.com/tool/EK-TM4C123GXL?DCMP=stellaris-launchpad&HQS=tm4c123g-launc
 http://www.ti.com/tool/MSP-EXP430F5529LP
 
 - Breadboard Jumper Wire Set (Male to Female, Male to Male, and Female to Female)  <br />
-You can find a wide range of choices using the keyword 'breadboard jumper wire'.
+You can find a wide range of choices using the keyword 'breadboard jumper wire'. Please, make sure to obtain all M-M, F-F, and M-F wire combinations.
